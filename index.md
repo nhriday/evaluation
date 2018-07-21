@@ -12,7 +12,7 @@ The primary objective of the evaluation phase of our application is to answer th
 -	Are the alternate routes (if available), feasible to suggest?
 	
 ### Experimental Methods
-Describe each experiment you are proposing under the following headings.
+
 **Experiment 1** 
 
 Overview 
@@ -30,6 +30,7 @@ The data collected is
 -	Time taken to commute the distance (Minutes)
 -	Time delay during the commute (the difference between the quickest and slowest times)
 -	Here is an example of the data recorded
+![Recording]( nhriday.github.io/1.1.png )
  
 #### Selected Subjects 
 
