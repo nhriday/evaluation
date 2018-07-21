@@ -31,7 +31,7 @@ The data collected is
 -	Time delay during the commute (the difference between the quickest and slowest times)
 -	Here is an example of the data recorded
 
-![Data]( nhriday.github.io/evaluation/Data.png )
+![Data]( https://github.com/nhriday/evaluation/blob/master/Data.png )
  
 #### Selected Subjects 
 
