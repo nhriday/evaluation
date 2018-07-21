@@ -30,7 +30,7 @@ The data collected is
 -	Time taken to commute the distance (Minutes)
 -	Time delay during the commute (the difference between the quickest and slowest times)
 -	Here is an example of the data recorded
-![Recording]( nhriday.github.io/1.1.png )
+![Recording]( nhriday.github.io/evaluation/Data.png )
  
 #### Selected Subjects 
 
