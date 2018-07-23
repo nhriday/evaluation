@@ -32,6 +32,8 @@ The data collected is
 -	Here is an example of the data recorded
 
 ![Recording](nhriday.github.io/evaluation/Data.png)
+
+![Recording]({{site.url}}evaluation/Data.png)
  
 #### Selected Subjects 
 
